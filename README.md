@@ -5,18 +5,18 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
   * Noticias
   * Tutoriales
 * Convocatoria abierta de Laneros para Laneros
-  * Propuestas
+ * Propuestas
 * Comunidad
   * Comentarios y sugerencias al staff de Laneros
   * Anuncios
-  * Guías Laneros.com
+  * Guías Laneros.com
   * Problemas con Laneros.com
   * Introducciones
 * Tecnologías de la Información y la Comunicación
   * Internet y Redes
   * Seguridad
 * Móviles
-  * Teléfonos Celulares
+  * Teléfonos Celulares
     * Alcatel
     * ASUS
     * Apple
@@ -51,7 +51,7 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
     * Windows 7 y Versiones Anteriores
     * Aplicaciones para Windows
   * Zona Mac
-    * Programacion y Diseño de Software
+    * Programacion y Diseño de Software
 * Multimedia
   * Diseño Gráfico
   * Fotografía
