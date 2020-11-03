@@ -14,16 +14,30 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
     * Multimedia
     * Aplicaciones
     * Generales de Móviles
-  * Gadgets
-  * Tablets
+  * iPad, Galaxy Tab, y otras tablets
+  * Smartwatches, TVs, asistentes y otros gadgets
+* Consolas
+  * Nintendo
+  * Microsoft Xbox
+  * Sony Playstation
+  * General Consolas
+  * Emuladores
 * Software
+  * Windows (sub foros como prefijos, Win10, Win8, Win7)
+    * Aplicaciones de Window
   * GNU/Linux
-  * Windows
-    * Windows 8
-    * Windows 7 y Versiones Anteriores
-    * Aplicaciones para Windows
-  * Zona Mac
-    * Programacion y Diseño de Software
+  * MacOS
+  * Desarrollo e ingeniería de software
+* Hardware
+  * Solicitudes y Recomendaciones de Hardware
+  * Tarjetas de video y motherboards
+  * CPU
+  * Periféricos
+  * Modding (sub foros como prefijos)
+  * Overclock
+  * Benchmarks
+  * Computadores portatiles
+  * Electrónica
 * Multimedia
   * Diseño Gráfico
   * Fotografía
@@ -31,37 +45,12 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
   * Audio
   * Video
   * Animación
-* Hardware
-  * Modding
-    * Galería de Modding
-    * Artículos de Modding
-  * Overclock
-  * Benchmarks
-  * CPU
-  * Periféricos
-  * Computadores portatiles
-  * Tarjetas - Placas
-  * Solicitudes y Recomendaciones de Hardware
-  * Electrónica
 * Juegos
   * Acción
   * Rol
   * Estrategia
   * Simulación
   * Aventura
-* Consolas
-  * Nintendo
-  * Microsoft Xbox
-  * Sony Playstation
-  * General Consolas
-  * Emuladores
-* Eventos
-  * LANParties!
-  * Torneos
-  * Campus Party Colombia
-    * Campus Party 2008
-    * Campus Party 2009
-    * Campus Party 2010
 * Deportes
   * Futbol
     * Futbol Colombiano
@@ -69,7 +58,7 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
     * Otros
   * Automovilismo
   * Otros deportes
-* Discusiones Generales
+* Otras secciones
   * Compra/Venta
     * Computación
     * Videojuegos
@@ -80,14 +69,18 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
     * Audio y Video
     * Otros
     * Problemas en Compra/Venta
-  * Ofertas Laborales
-  * Member’s Lounge
+  * La comunidad
     * Temas Destacados
     * Entretenimiento
     * Cumpleaños
     * El Mundo Real
     * General X
   * English Forum
-* Comunidad
-  * Información y reportes de Laneros.com
+  * Ofertas Laborales
+* Eventos
+  * LANParties!
+  * Torneos
+  * Campus Party Colombia (sub foros como prefijos)
+* Laneros.com
+  * Información y reportes
   * Introducciones
