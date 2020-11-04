@@ -16,6 +16,9 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
     * Generales de Móviles
   * iPad, Galaxy Tab, y otras tablets
   * Smartwatches, TVs, asistentes y otros gadgets
+* Bancos y productos financieros
+  * Tarjetas de crédito y préstamos
+  * Cuentas de ahorro, fiducuentas, inversiones y finanzas personales
 * Consolas
   * Nintendo
   * Microsoft Xbox
