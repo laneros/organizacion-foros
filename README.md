@@ -46,7 +46,7 @@ Esta es la estructura de los foros en Laneros.com. Cualquier usuario puede abrir
   * Fotografía
   * Diseño Web
   * Audio
-  * Video
+  * Video (prefijos: Operadores, Streaming, Canales, Series, Películas, Personajes, Tecnología)
   * Animación
 * Juegos
   * Acción
